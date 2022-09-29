@@ -38,6 +38,7 @@ class p151Array_2차원eg {
 		System.out.printf("총점:%3d %4d %4d%n", korTotal, engTotal, mathTotal);
 		
 		
+		// 정답맞추기
 		String[][] words = {
 				{"chair","의자"}
 				,{"computer","컴퓨터"}
