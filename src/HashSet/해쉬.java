@@ -2,7 +2,7 @@ package HashSet;
 
 import java.util.HashSet;
 
-class 해쉬 {
+class 해쉬1{
 	public int solution(int[] nums) {
 		
 		HashSet<Integer> hs = new HashSet<>();
